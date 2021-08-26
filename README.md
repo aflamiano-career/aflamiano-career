@@ -4,7 +4,7 @@
 :seedling: I’m constantly learning more in-depth HTML, CSS and JS.<br/>
 :mag_right: I have work experience in software QA which I am able to leverage as a developer.<br/>
 
-This github contains the projects I have created which you may look into and inspect freely. These projects are responsive by design and can be viewed from different devices whether desktop / mobile. These are frontend mentor solutions for now and focus only on the landing pages and main pages which I plan to add more of as I continue to have fun delving into the world of front-end design / development. I also plan to add my own designs and projects here in the future.
+This github contains the projects I have created which you may look into and inspect freely. These projects are responsive by design and can be viewed from different devices whether desktop / mobile. These are frontend mentor solutions for now and focus only on the landing pages and main pages which I plan to add more of as I continue to have fun delving into the world of front-end design / development (Please see repository readme files for more information about frontend mentor challenges). I also plan to add my own designs and projects here in the future.
 
 #### Current Projects:
 - :tangerine: [Sunnyside Agency Landing Page](https://aflamiano-std.github.io/sunnyside-agency-landing-page/) | [Repository](https://github.com/aflamiano-career/sunnyside-agency-landing-page)
